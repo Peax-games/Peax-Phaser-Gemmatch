@@ -5,6 +5,7 @@ import Gemmatch from './Game/Gemmatch';
 
 class App extends Component {
   render() {
+    Gemmatch();
     return (
       <div id="myCanvas">
 
